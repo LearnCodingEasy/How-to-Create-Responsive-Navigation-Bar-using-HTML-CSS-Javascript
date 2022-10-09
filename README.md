@@ -30,7 +30,7 @@ npm install
 ``` 
 
 # View
-[View](https://learncodingeasy.github.io/Navbar-1/dist/)
+[View](https://learncodingeasy.github.io/How-to-Create-Responsive-Navigation-Bar-using-HTML-CSS-Javascript/dist/)
 
 
 # Preview
