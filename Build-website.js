@@ -947,5 +947,5 @@ gulp.task("default", gulp.series("watch"));
  *
  * Todo: =>
  *
- *
+ * html,pug,css,scss,javascripy
  */
